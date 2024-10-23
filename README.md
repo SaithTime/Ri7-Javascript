@@ -4,11 +4,12 @@
 <br />
 <br />
 <p>Ce mono-repo contient les projets du module JavaScript.</p>
+<br />
 <details>
-    <summary font="bold">Liste des projets:</summary>
+    <summary>Liste des projets:</summary>
     <ul style="none">
-        <li>Projet 1: <a>Jeu textuel</a></li>
-        <li>Projet 2: <a>Quizz</a></li>
-        <li>Projet 3: <a>Jeu de combat</a></li>
+        <li><a href="https://github.com/SaithTime/Ri7-Javascript/tree/main/Projet1">Projet 1:  Jeu textuel</a></li>
+        <li><a href="https://github.com/SaithTime/Ri7-Javascript/tree/main/Projet2">Projet 2: Quizz</a></li>
+        <li><a href="https://github.com/SaithTime/Ri7-Javascript/tree/main/Projet3">Projet 3: Jeu de combat</a></li>
     </ul>
 </details>
